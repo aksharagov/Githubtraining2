@@ -1,0 +1,5 @@
+rice
+cereal
+milk
+banana
+detergent 
